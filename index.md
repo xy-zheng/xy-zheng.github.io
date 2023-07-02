@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
  
-I received my Ph.D. degree in Statistics under the supervision of Professor [Songxi Chen](https://songxichen.com) at Peking University in June, 2022.
+I received my Ph.D. degree in Statistics under the supervision of Professor [Songxi Chen](https://songxichen.com) at [Peking University](https://www.pku.edu.cn) in June, 2022.
 I joind [JD.com, Inc](https://corporate.jd.com) as a member of the DMT (Doctor Management Trainee) in July, 2022.
 Currently,
 I am an ML Algorithm Engineer at [JD Technology](https://www.jdt.com.cn/about) to support the technology innovations in financial risk management as well as the precision marketing.
@@ -12,21 +12,17 @@ I am an ML Algorithm Engineer at [JD Technology](https://www.jdt.com.cn/about) t
 
 ## Research Interests
 
-- Currently, I mainly focus on the Statistical Inference of Individual Treatment Effect, Optimal Treatment Regime, and the applications in financial risk management and precision marketing.
+- Currently, I mainly focus on the statistical inference of Individual Treatment Effect, design of Optimal Treatment Regime, and their applications in financial risk management and precision marketing.
 - I also have a wide interest in Causal learning for Out-of-distribution Prediction, Tree-based machine learning methods, and Environmental statistics.
 
 
 ## Education
 
-- Ph.D. in Statistics, Guanghua School of Management, Peking University 
+- [Sep. 2017 - Jun. 2022] Ph.D. in Statistics, Guanghua School of Management, Peking University 
    
-   September 2017 - June 2022
-- B.S. in Statistics, School of Mathematical Sciences, Beijing Normal University
 
-    September 2013- July 2017
+- [Sep. 2013 - Jul. 2017] B.S. in Statistics, School of Mathematical Sciences, Beijing Normal University
 
-
-## Publications
 
 
 {% include_relative _includes/publications.md %}
