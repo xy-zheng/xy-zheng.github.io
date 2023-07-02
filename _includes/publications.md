@@ -34,8 +34,9 @@
 <div class="pub-row">
 <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://proceedings.mlr.press/v206/sun23a.html">  A New Causal Decomposition Paradigm towards Health Equity </a></div>
-    <div class="author">Mingzhou Liu, <strong>Xiangyu Zheng</strong>, Xinwei Sun, Fang Fang, Yizhou Wang </div>
-    <div class="periodical"><em>International Conference on Machine Learning <strong>(ICML, 2023)</strong>.</em></div> 
+    <div class="author"> Xinwei Sun, 
+    <strong>Xiangyu Zheng</strong>, Jim Weinstein </div>
+    <div class="periodical"><em>International Conference on Artificial Intelligence and Statistics <strong>(AISTATS, 2023)</strong>.</em></div> 
   </div>
 </div>
 
