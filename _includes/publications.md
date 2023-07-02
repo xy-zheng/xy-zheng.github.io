@@ -65,7 +65,7 @@ Environmetrics, 2021.</em></div>
 
 <div class="pub-row">
 <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://dx.doi.org/10.4310/20-SII649"> Discussion on ``The timing and effectiveness of implementing mild interventions of COVID-19 via a synthetic control method” </a></div>
+    <div class="title"><a href="https://dx.doi.org/10.4310/20-SII649"> Discussion on "The timing and effectiveness of implementing mild interventions of COVID-19 via a synthetic control method" </a></div>
     <div class="author"> Songxi Chen and <strong>Xiangyu Zheng</strong>. </div>
     <div class="periodical"><em>
 Statistics and Its Interface, 2021.</em></div> 
