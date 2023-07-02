@@ -16,7 +16,7 @@
     <div class="author"> <strong>Xiangyu Zheng</strong> and Songxi Chen </div>
     <div class="periodical"><em> upcoming in Journal of the Royal Statistical Society Series B (Statistical Methodology) (JRSS-B).</em></div> 
   </div>
-</div>
+
 
 
 <br>
@@ -26,7 +26,6 @@
     <div class="author">Mingzhou Liu, <strong>Xiangyu Zheng</strong>, Xinwei Sun, Fang Fang, Yizhou Wang </div>
     <div class="periodical"><em>International Conference on Machine Learning <strong>(ICML, 2023)</strong>.</em></div> 
   </div>
-</div>
 
 
 <br>
@@ -36,7 +35,6 @@
     <div class="author">Mingzhou Liu, <strong>Xiangyu Zheng</strong>, Xinwei Sun, Fang Fang, Yizhou Wang </div>
     <div class="periodical"><em>International Conference on Machine Learning <strong>(ICML, 2023)</strong>.</em></div> 
   </div>
-</div>
 
 <br>
 
@@ -46,7 +44,6 @@
     <div class="periodical"><em>
 Conference on Neural Information Processing Systems <strong>(NeurIPS, 2021)</strong>.</em></div> 
   </div>
-</div>
 
 <br>
 
@@ -56,7 +53,6 @@ Conference on Neural Information Processing Systems <strong>(NeurIPS, 2021)</str
     <div class="periodical"><em>
 Environmetrics, 2021.</em></div> 
   </div>
-</div>
 
 
 <br>
@@ -68,7 +64,6 @@ Environmetrics, 2021.</em></div>
     <div class="periodical"><em>
 Statistics and Its Interface, 2021.</em></div> 
   </div>
-</div>
   
 <br>
 
@@ -79,6 +74,8 @@ Statistics and Its Interface, 2021.</em></div>
     <div class="periodical"><em>
 Conference on Neural Information Processing Systems <strong>(NeurIPS, 2019)</strong>.</em></div> 
   </div>
+
+  
 </div>
   
 
