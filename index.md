@@ -28,13 +28,13 @@ I am an ML Algorithm Engineer at [JD Technology](https://www.jdt.com.cn/about) t
 {% include_relative _includes/publications.md %}
 
 ## Working Papers
-- Adversarial Learning of Decomposed Representations for Individual Treatment Effect Estimation
+- Adversarial Learning of Decomposed Representations for Individual Treatment Effect Estimation.
 
-- UTBoost: A Tree-boosting based System for Uplift Modeling
+- UTBoost: A Tree-boosting based System for Uplift Modeling.
 
 
 ## Experience
-- [Jul. 2022 - Now] ML Algorithm Engineer at JD Technology
+- [Jul. 2022 - Now] ML Algorithm Engineer at JD Technology.
 
-- [Nov. 2020 - Feb. 2022] Research Intern at Microsoft Research Asia (Machine Learning group)
+- [Nov. 2020 - Feb. 2022] Research Intern at Microsoft Research Asia (Machine Learning group).
 
