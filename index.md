@@ -26,7 +26,11 @@ I am an ML Algorithm Engineer at [JD Technology](https://www.jdt.com.cn/about) t
     September 2013- July 2017
 
 
-## Refereed Publications
+## Publications
+
+
+{% include_relative _includes/publications.md %}
+
 
 - Dynamic Synthetic Control Method for Evaluating Dynamic Effects of Policy Intervention
 
@@ -80,8 +84,10 @@ I am an ML Algorithm Engineer at [JD Technology](https://www.jdt.com.cn/about) t
 - Adversarial Learning of Decomposed Representations for Individual Treatment Effect Estimation
 
 - UTBoost: A Tree-boosting based System for Uplift Modeling
-- 
+
+
 ## Experience
 - [Jul. 2022 - Now] ML Algorithm Engineer at JD Technology
 
 - [Nov. 2020 - Feb. 2022] Research Intern at Microsoft Research Asia (Machine Learning group)
+
