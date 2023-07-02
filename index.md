@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
  
-I received my Ph.D. degree in Statistics under the supervision of Professor [Songxi Chen](https://songxichen.com) at [Peking University](https://www.pku.edu.cn) in June, 2022.
+I received my Ph.D. degree in Statistics under the supervision of Professor [Song Xi Chen](https://songxichen.com) at [Peking University](https://www.pku.edu.cn) in June, 2022.
 I joined [JD.com, Inc](https://corporate.jd.com) as a member of the DMT (Doctor Management Trainee) in July, 2022.
 Currently,
 I am an ML Algorithm Engineer at [JD Technology](https://www.jdt.com.cn/about) to support the technology innovations in financial risk management as well as the precision marketing.
