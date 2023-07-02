@@ -12,7 +12,7 @@ I am an ML Algorithm Engineer at [JD Technology](https://www.jdt.com.cn/about) t
 
 ## Research Interests
 
-- Currently, I mainly focus on the statistical inference of Individual Treatment Effect, design of Optimal Treatment Regime, and their applications in financial risk management and precision marketing.
+- Currently, I mainly focus on the statistical inference of Individual Treatment Effect, design of Optimal Dynamic Treatment Regime, and their applications in financial risk management and precision marketing.
 - I also have a wide interest in Causal learning for Out-of-distribution Prediction, Tree-based machine learning methods, and Environmental statistics.
 
 
