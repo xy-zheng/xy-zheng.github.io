@@ -90,7 +90,6 @@ Statistics and Its Interface, 2021.</em></div>
 
 
 
-</div>
 </li>
   
 <br>
