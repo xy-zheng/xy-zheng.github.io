@@ -24,7 +24,6 @@ I am an ML Algorithm Engineer at [JD Technology](https://www.jdt.com.cn/about) t
 - [2013.9 - 2017.7] B.S. in Statistics, School of Mathematical Sciences, Beijing Normal University
 
 
-
 {% include_relative _includes/publications.md %}
 
 ## Working Papers

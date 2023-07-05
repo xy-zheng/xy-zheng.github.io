@@ -87,12 +87,8 @@ Statistics and Its Interface, 2021.</em></div>
   </div>
 </div>
 
-
-
-
 </li>
   
-<br>
 
 </ol>
 </div>
