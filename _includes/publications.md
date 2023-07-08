@@ -12,7 +12,7 @@
   </div> -->
 
 <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2107.01876">Dynamic Synthetic Control Method for Evaluating Dynamic Effects of Policy Intervention </a></div>
+    <div class="title"><a href="https://songxichen.com/Uploads/Files/Publication/AirPollution-Alert-unblind.pdf">Dynamic Synthetic Control Method for Evaluating Dynamic Effects of Policy Intervention </a></div>
     <div class="author"> <strong>Xiangyu Zheng</strong> and Song Xi Chen </div>
     <div class="periodical"><em> upcoming in Journal of the Royal Statistical Society Series B (Statistical Methodology) (JRSS-B).</em></div> 
   </div>
@@ -23,7 +23,7 @@
 
 <div class="pub-row">
 <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://songxichen.com/Uploads/Files/Publication/AirPollution-Alert-unblind.pdf">Which Invariance Should We Transfer? A Causal Minimax Learning Approach </a></div>
+    <div class="title"><a href="https://arxiv.org/abs/2107.01876">Which Invariance Should We Transfer? A Causal Minimax Learning Approach </a></div>
     <div class="author">Mingzhou Liu*, <strong>Xiangyu Zheng</strong>*, Xinwei Sun, Fang Fang, Yizhou Wang </div> (* equal contribution)
     <div class="periodical"><em>International Conference on Machine Learning <strong>(ICML, 2023)</strong>.</em></div> 
   </div>
