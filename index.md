@@ -9,12 +9,11 @@ I joined [JD.com, Inc](https://corporate.jd.com) as a member of the DMT (Doctor 
 Currently,
 I am an ML Algorithm Engineer at [JD Technology](https://www.jdt.com.cn/about) to support the technology innovations in financial risk management as well as precision marketing.
 
+## Experience
+- [Jul. 2022 - Now] ML Algorithm Engineer at JD Technology.
 
-## Research Interests
-
-- Currently, I mainly focus on the statistical inference of Individual Treatment Effect, design of Optimal Dynamic Treatment Regime, and their applications in financial risk management and precision marketing.
-- I also have a wide interest in Causal learning for Out-of-distribution Prediction, Tree-based machine learning methods, and Environmental statistics.
-
+- [Nov. 2020 - Feb. 2022] Research Intern at Microsoft Research Asia (Machine Learning group).
+  
 
 ## Education
 
@@ -22,6 +21,11 @@ I am an ML Algorithm Engineer at [JD Technology](https://www.jdt.com.cn/about) t
    
 
 - [2013.9 - 2017.7] B.S. in Statistics, School of Mathematical Sciences, Beijing Normal University
+
+## Research Interests
+
+- Currently, I mainly focus on the statistical inference of Individual Treatment Effect, Optimized Allocation of Treatments, and their applications in precision marketing.
+- I also had a wide interest in Causal learning for Out-of-distribution Prediction, Tree-based machine learning methods, and Environmental statistics.
 
 
 {% include_relative _includes/publications.md %}
@@ -32,8 +36,5 @@ I am an ML Algorithm Engineer at [JD Technology](https://www.jdt.com.cn/about) t
 - UTBoost: A Tree-boosting based System for Uplift Modeling.
 
 
-## Experience
-- [Jul. 2022 - Now] ML Algorithm Engineer at JD Technology.
 
-- [Nov. 2020 - Feb. 2022] Research Intern at Microsoft Research Asia (Machine Learning group).
 

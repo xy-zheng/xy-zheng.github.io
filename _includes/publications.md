@@ -14,7 +14,7 @@
 <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://songxichen.com/Uploads/Files/Publication/AirPollution-Alert-unblind.pdf">Dynamic Synthetic Control Method for Evaluating Dynamic Effects of Policy Intervention </a></div>
     <div class="author"> <strong>Xiangyu Zheng</strong> and Song Xi Chen </div>
-    <div class="periodical"><em> upcoming in Journal of the Royal Statistical Society Series B (Statistical Methodology) (JRSS-B).</em></div> 
+    <div class="periodical"><em>Journal of the Royal Statistical Society Series B (Statistical Methodology) (JRSS-B).</em></div> 
   </div>
 </div>
 
