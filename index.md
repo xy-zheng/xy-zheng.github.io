@@ -31,8 +31,6 @@ I am an ML Algorithm Engineer at [JD Technology](https://www.jdt.com.cn/about) t
 {% include_relative _includes/publications.md %}
 
 ## Working Papers
-- Adversarial Learning of Decomposed Representations for Individual Treatment Effect Estimation.
-
 - UTBoost: A Tree-boosting based System for Uplift Modeling.
 
 
