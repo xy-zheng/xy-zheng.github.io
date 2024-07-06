@@ -5,16 +5,23 @@
 
 <li>
 <div class="pub-row">
+<div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://songxichen.com/Uploads/Files/Publication/AirPollution-Alert-unblind.pdf">ADR: An Adversarial Approach to Learn Decomposed Representations for Causal Inference </a></div>
+    <div class="author"> <strong>Xiangyu Zheng</strong>, Guogang Tian, Sen Wang, and Zhixiang Huang Song</div>
+    <div class="periodical"><em> European Conference on Machine Learning and Data Mining (Research Track)
+<strong>(ECML-PKDD, 2024)</strong>.</em></div> 
+  </div>
+</div>
 
-  <!-- <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">CVPR</abbr>
-  </div> -->
 
+<br>
+
+<div class="pub-row">
 <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://songxichen.com/Uploads/Files/Publication/AirPollution-Alert-unblind.pdf">Dynamic Synthetic Control Method for Evaluating Dynamic Effects of Policy Intervention </a></div>
     <div class="author"> <strong>Xiangyu Zheng</strong> and Song Xi Chen </div>
-    <div class="periodical"><em>Journal of the Royal Statistical Society Series B (Statistical Methodology) (JRSS-B).</em></div> 
+    <div class="periodical"><em>Journal of the Royal Statistical Society Series B (Statistical Methodology)
+<strong>(JRSS-B, 2024)</strong>.</em></div> 
   </div>
 </div>
 
