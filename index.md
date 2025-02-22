@@ -30,8 +30,6 @@ I am an ML Algorithm Engineer at [JD Technology](https://www.jdt.com.cn/about) t
 
 {% include_relative _includes/publications.md %}
 
-## Working Papers
-- UTBoost: A Tree-boosting based System for Uplift Modeling.
 
 
 

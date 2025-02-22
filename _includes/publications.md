@@ -6,6 +6,21 @@
 <li>
 <div class="pub-row">
 <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://link.springer.com/chapter/10.1007/978-981-96-0116-5_4"> UTBoost: Gradient Boosted Decision Trees for Uplift Modeling. </a></div>
+    <div class="author"> Junjie Gao, <strong>Xiangyu Zheng</strong>, Dongdong Wang, Zhixiang Huang, and Bangqi Zheng</div>
+    <div class="periodical"><em> Pacific Rim International Conference on Artificial Intelligence
+<strong>(PRICAI, 2024)</strong>.</em></div> 
+  </div>
+</div>
+
+
+
+
+
+<br>
+
+<div class="pub-row">
+<div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://songxichen.com/Uploads/Files/Publication/AirPollution-Alert-unblind.pdf">ADR: An Adversarial Approach to Learn Decomposed Representations for Causal Inference </a></div>
     <div class="author"> <strong>Xiangyu Zheng</strong>, Guogang Tian, Sen Wang, and Zhixiang Huang</div>
     <div class="periodical"><em> European Conference on Machine Learning and Data Mining (Research Track)
